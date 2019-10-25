@@ -1,0 +1,18 @@
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\bin\Debug\Barcode128.exe.config
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\bin\Debug\Barcode128.exe
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\bin\Debug\Barcode128.pdb
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\obj\Debug\Barcode128.Form1.resources
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\obj\Debug\Barcode128.csproj.GenerateResource.Cache
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\obj\Debug\Barcode128.exe
+C:\Users\Mr.Nam\documents\visual studio 2015\Projects\Barcode128\Barcode128\obj\Debug\Barcode128.pdb
+C:\Users\Mr.Nam\Desktop\Barcode128\Barcode128\bin\Debug\Barcode128.exe.config
+C:\Users\Mr.Nam\Desktop\Barcode128\Barcode128\obj\Debug\Barcode128.exe
+C:\Users\Mr.Nam\Desktop\Barcode128\Barcode128\obj\Debug\Barcode128.pdb
+C:\Users\Mr.Nam\Desktop\Barcode128\Barcode128\bin\Debug\Barcode128.exe
+C:\Users\Mr.Nam\Desktop\Barcode128\Barcode128\bin\Debug\Barcode128.pdb
+C:\Users\Mr.Nam\Desktop\Barcode128\Barcode128\obj\Debug\Barcode128.Form1.resources
+C:\Users\Mr.Nam\Desktop\Barcode128\Barcode128\obj\Debug\Barcode128.csproj.GenerateResource.Cache
+C:\Users\Mr.Nam\Documents\Visual Studio 2015\Projects\Barcode128_v1.0.0\Barcode128\Barcode128\bin\Debug\Barcode128.exe.config
+C:\Users\Mr.Nam\Documents\Visual Studio 2015\Projects\Barcode128_v1.0.0\Barcode128\Barcode128\obj\Debug\Barcode128.exe
+C:\Users\Mr.Nam\Documents\Visual Studio 2015\Projects\Barcode128_v1.0.0\Barcode128\Barcode128\obj\Debug\Barcode128.pdb
